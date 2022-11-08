@@ -6,7 +6,7 @@ This repository contains programs for socket programming using C and C++.
 
 ## Programs
 - [File Transfer](https://github.com/arefa29/Socket-Programming/tree/main/FileTransfer)
-- Multi client chat server
+- [Multi client chat server](https://github.com/arefa29/Socket-Programming/tree/main/MultiClientChat)
 
 ## Running
 
